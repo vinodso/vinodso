@@ -3,7 +3,7 @@
 </div> 
 
 <h1 align="center">Hi 👋, I'm vinod kumar</h1>
-<h3 align="center">Cloud & DevOps Engineer | Developer | Content Strategist</h3>
+<h3 align="center">Cloud & DevOps Engineer | Developer </h3>
 <img align="right" alt="coding" width="250" height="240" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif">
 <br> 
 
