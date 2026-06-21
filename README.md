@@ -23,7 +23,7 @@
 ![githubaction](https://img.shields.io/badge/github_action-grey?style=for-the-badge&logo=github_action&logoColor)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.credly.com/badges/YOUR_LINUX_CERTIFICATION_URL)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.credly.com/badges/YOUR_WINDOWS_CERTIFICATION_URL)
-![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
+
 ![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor)
 ![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![mongodb](https://img.shields.io/badge/mongodb-blue?style=for-the-badge&logo=mongodb&logoColor)
